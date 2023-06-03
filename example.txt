@@ -1,3 +1,0 @@
-This is an Example File for using Git for Version Control
-
-This is an Extra Line
